@@ -1,2 +1,0 @@
-# partidocenso
-Partido  por HH
